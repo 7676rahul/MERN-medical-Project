@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Event management
 
@@ -50,3 +51,7 @@ To run this project
  
 
 
+=======
+# MERN-medical-Project
+Main Purpose behind this project was to make sure everyone will get proper awareness about the healthcare which is available near their hometown and nearby regions.
+>>>>>>> 11e9de1a5a0fbba7cd54732c7f11c8b2e56e8a2f
